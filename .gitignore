@@ -1,5 +1,3 @@
-passwords.txt
-
+example.txt
 
 *.txt
-# *.txt - All of the files that have a .txt extension will be ignored.
