@@ -33,7 +33,15 @@
 
 #!markdown
 
-## **git remote add \<name> \<url>**
+## **git remote add \<name> \<url>**  
+
+Создаёт удалённый git репазиторий
+
+#!markdown
+
+## **git push -u \<remote name> \<branch name>**  
+
+git push -u \<origin> \<main>
 
 #!markdown
 
