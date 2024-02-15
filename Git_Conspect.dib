@@ -33,6 +33,10 @@
 
 #!markdown
 
+## **git remote add \<name> \<url>**
+
+#!markdown
+
 1. **git init**:  Инициализирует новый репозиторий.
 
 2. **git clone [url]**: Клонирует репозиторий по указанному URL.
